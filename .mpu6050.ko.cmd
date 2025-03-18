@@ -1,0 +1,1 @@
+cmd_/home/kane/linux/DIY/MPU6050/mpu6050.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/kane/linux/DIY/MPU6050/mpu6050.ko /home/kane/linux/DIY/MPU6050/mpu6050.o /home/kane/linux/DIY/MPU6050/mpu6050.mod.o
