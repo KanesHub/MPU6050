@@ -4,9 +4,9 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/kane/linux/temp/linux-imx-rel_imx_4.1.15_2.1.0_ga/include", 
-                "/home/kane/linux/temp/linux-imx-rel_imx_4.1.15_2.1.0_ga/arch/arm/include", 
-                "/home/kane/linux/temp/linux-imx-rel_imx_4.1.15_2.1.0_ga/arch/arm/include/generated/"
+                "/home/kane/linux/Linux_KernelForImx/linux-imx-rel_imx_4.1.15_2.1.0_ga/include", 
+                "/home/kane/linux/Linux_KernelForImx/linux-imx-rel_imx_4.1.15_2.1.0_ga/arch/arm/include", 
+                "/home/kane/linux/Linux_KernelForImx/linux-imx-rel_imx_4.1.15_2.1.0_ga/arch/arm/include/generated/"
 
             ],
             "defines": [],
