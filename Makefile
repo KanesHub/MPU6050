@@ -1,4 +1,4 @@
-KERNELDIR := /home/kane/linux/temp/linux-imx-rel_imx_4.1.15_2.1.0_ga
+KERNELDIR := /home/kane/linux/Linux_KernelForImx/linux-imx-rel_imx_4.1.15_2.1.0_ga
 CURRENT_PATH := $(shell pwd)
 
 obj-m := mpu6050.o
