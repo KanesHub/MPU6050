@@ -16,16 +16,10 @@
 #include <asm/uaccess.h>
 #include <asm/io.h>
 
-/***************************************************************
-Copyright © ALIENTEK Co., Ltd. 1998-2029. All rights reserved.
-文件名		: ap3216c.c
-作者	  	: 左忠凯
-版本	   	: V1.0
-描述	   	: AP3216C驱动程序
-其他	   	: 无
-论坛 	   	: www.openedv.com
-日志	   	: 初版V1.0 2019/9/2 左忠凯创建
-***************************************************************/
+
+
+
+
 #define OLED_CNT	1
 #define OLED_NAME	"MPU6050"
 

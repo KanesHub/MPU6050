@@ -50,6 +50,9 @@
         "errno.h": "c",
         "oledreg.h": "c",
         "math.h": "c",
-        "math64.h": "c"
+        "math64.h": "c",
+        "module.h": "c",
+        "gpio.h": "c",
+        "delay.h": "c"
     }
 }
